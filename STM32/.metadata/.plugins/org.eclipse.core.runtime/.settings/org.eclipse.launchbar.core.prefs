@@ -1,7 +1,10 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LearnTwo Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LearnOne Debug
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LearnTwo Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LearnOne Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LearnThree Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SFM3300SensRead Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:USBComm Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Master Debug
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LearnOne\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LearnOne\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Master\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SFM3300SensRead\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UartComm\ Debug/activeLaunchMode=run

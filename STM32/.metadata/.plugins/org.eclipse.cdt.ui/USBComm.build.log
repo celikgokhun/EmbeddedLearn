@@ -1,0 +1,10 @@
+15:57:32 **** Incremental Build of configuration Debug for project USBComm ****
+make -j8 all 
+arm-none-eabi-size   USBComm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30260	    392	   6088	  36740	   8f84	USBComm.elf
+Finished building: default.size.stdout
+ 
+
+15:57:32 Build Finished. 0 errors, 0 warnings. (took 580ms)
+
